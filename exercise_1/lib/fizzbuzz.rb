@@ -8,7 +8,7 @@ class FizzBuzz
 
   private
 
-  def is_divisible_by?(divis0r, number)
+  def is_divisible_by?(divisor, number)
     number % divisor == 1
   end
 end
